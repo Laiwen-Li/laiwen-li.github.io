@@ -1,49 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
+    <loc>https://www.elewin.top/</loc>
+    <lastmod>2025-02-04T00:26:55+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
+    <loc>https://www.elewin.top/posts/</loc>
+    <lastmod>2025-02-04T00:26:55+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/draft/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
+    <loc>https://www.elewin.top/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/draft/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
+    <loc>https://www.elewin.top/collections/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/10efd1f/</loc>
-    <lastmod>2025-02-04T00:13:28+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/collections/</loc>
+    <loc>https://www.elewin.top/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
