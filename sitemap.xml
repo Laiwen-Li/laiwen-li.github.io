@@ -16,6 +16,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.elewin.top/posts/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.elewin.top/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
